@@ -1,5 +1,4 @@
-# Bootstrap grid generator ( v.3)
-[link to Bootstrap grid documentation](http://getbootstrap.com/css/#grid)
+# Bootstrap grid generator ([v.3](http://getbootstrap.com/css/#grid))
 
 TL;DR | A quick bootstrap grid generator to generate .css/.sass that you can use in any page.
 
@@ -10,7 +9,7 @@ It takes SASS files from Bootstrap repository and generates compressed CSS file.
 If you want to use *ONLY* bootstrap grid system and avoid using whole bootstrap library.
 
 ## Installation
-1. clone repository
+1. `git clone https://github.com/karlisup/bootstrap-grid-generator.git`
 2. `npm install`
 3. `gulp`
 
